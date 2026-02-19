@@ -1,0 +1,151 @@
+Employee_ID,First_Name,Last_Name,Email,Department,Title,Hire_Date,Manager_ID,Office_Location,Employment_Status
+EMP00001,Stephen,Campbell,stephen.campbell@techsolutions-corp.com,Finance,CFO,2022-06-07,,Atlanta,Active
+EMP00002,Lisa,Fitzpatrick,lisa.fitzpatrick@techsolutions-corp.com,Finance,Financial Analyst,2021-08-04,,New York,Active
+EMP00003,Gerald,Hayes,gerald.hayes@techsolutions-corp.com,Operations,COO,2019-06-04,,New York,Active
+EMP00004,Laura,Fritz,laura.fritz@techsolutions-corp.com,Finance,Finance Manager,2018-01-27,,Chicago,Active
+EMP00005,Erica,Fry,erica.fry@techsolutions-corp.com,Account Management,Customer Success Manager,2025-11-28,,Boston,Active
+EMP00006,Carol,Johnson,carol.johnson@techsolutions-corp.com,Operations,Operations Director,2019-05-11,,Boston,Active
+EMP00007,Travis,Bailey,travis.bailey@techsolutions-corp.com,Sales,Senior Account Executive,2021-05-11,,Chicago,Active
+EMP00008,Christopher,Hayes,christopher.hayes@techsolutions-corp.com,Supply Chain,Supply Chain Director,2018-02-02,,Chicago,Active
+EMP00009,Andrew,White,andrew.white@techsolutions-corp.com,Operations,Operations Director,2018-08-12,,New York,Active
+EMP00010,Paul,Jones,paul.jones@techsolutions-corp.com,Account Management,Account Manager,2021-10-31,,Chicago,Active
+EMP00011,Stephanie,Bell,stephanie.bell@techsolutions-corp.com,Sales,Sales Director,2022-02-04,EMP00005,San Francisco,Active
+EMP00012,Stephen,Powers,stephen.powers@techsolutions-corp.com,Finance,CFO,2021-07-16,EMP00007,Chicago,Active
+EMP00013,Justin,Davis,justin.davis@techsolutions-corp.com,Sales,Senior Account Executive,2018-02-24,EMP00004,San Francisco,Active
+EMP00014,Dustin,Jones,dustin.jones@techsolutions-corp.com,Sales,Senior Account Executive,2025-09-07,EMP00001,Atlanta,Active
+EMP00015,April,Miller,april.miller@techsolutions-corp.com,Supply Chain,Supply Chain Director,2025-10-13,EMP00007,Atlanta,Active
+EMP00016,Stephen,Burnett,stephen.burnett@techsolutions-corp.com,Sales,Sales Director,2021-12-15,EMP00001,Boston,Active
+EMP00017,Toni,Garrett,toni.garrett@techsolutions-corp.com,Finance,CFO,2023-01-12,EMP00013,Atlanta,Active
+EMP00018,Joseph,Johnson,joseph.johnson@techsolutions-corp.com,Supply Chain,Supply Chain Analyst,2019-11-12,EMP00017,New York,Active
+EMP00019,Robert,Blackburn,robert.blackburn@techsolutions-corp.com,Sales,Sales Director,2019-08-08,EMP00018,Boston,Active
+EMP00020,Helen,Silva,helen.silva@techsolutions-corp.com,Sales,Senior Account Executive,2022-07-08,EMP00008,New York,Active
+EMP00021,Todd,Newton,todd.newton@techsolutions-corp.com,Sales,Account Executive,2024-08-11,EMP00005,San Francisco,Active
+EMP00022,Kelly,Lee,kelly.lee@techsolutions-corp.com,Operations,Operations Manager,2022-07-01,EMP00016,San Francisco,Active
+EMP00023,Veronica,Morales,veronica.morales@techsolutions-corp.com,Finance,Senior Financial Analyst,2024-03-19,EMP00015,Chicago,Active
+EMP00024,Lauren,Nguyen,lauren.nguyen@techsolutions-corp.com,Account Management,Account Manager,2022-06-17,EMP00016,New York,Active
+EMP00025,Robert,Mcclure,robert.mcclure@techsolutions-corp.com,Supply Chain,Supply Chain Director,2018-10-10,EMP00013,Boston,Active
+EMP00026,Johnny,Baker,johnny.baker@techsolutions-corp.com,Supply Chain,Procurement Manager,2024-09-20,EMP00018,San Francisco,Active
+EMP00027,Brandon,Ball,brandon.ball@techsolutions-corp.com,Operations,Operations Manager,2022-02-09,EMP00003,New York,Active
+EMP00028,Danielle,Rogers,danielle.rogers@techsolutions-corp.com,Sales,Account Executive,2024-07-01,EMP00023,Boston,Active
+EMP00029,Michael,Hall,michael.hall@techsolutions-corp.com,Sales,Sales Director,2021-09-23,EMP00023,Atlanta,Active
+EMP00030,Nicole,Villegas,nicole.villegas@techsolutions-corp.com,Finance,Senior Financial Analyst,2023-11-12,EMP00026,Atlanta,Active
+EMP00031,Amber,Rowe,amber.rowe@techsolutions-corp.com,Operations,COO,2019-11-18,EMP00026,San Francisco,Active
+EMP00032,Jimmy,Oneal,jimmy.oneal@techsolutions-corp.com,Sales,Account Executive,2024-06-18,EMP00011,San Francisco,Active
+EMP00033,Adrian,Mason,adrian.mason@techsolutions-corp.com,Sales,Account Executive,2019-10-05,EMP00014,New York,Active
+EMP00034,Austin,Lopez,austin.lopez@techsolutions-corp.com,Account Management,Senior Account Manager,2018-02-02,EMP00022,Atlanta,Active
+EMP00035,Savannah,Smith,savannah.smith@techsolutions-corp.com,Supply Chain,Supply Chain Director,2023-10-21,EMP00022,Atlanta,Active
+EMP00036,Ashley,Mccoy,ashley.mccoy@techsolutions-corp.com,Finance,Senior Financial Analyst,2021-08-15,EMP00022,Atlanta,Active
+EMP00037,Keith,Flynn,keith.flynn@techsolutions-corp.com,Operations,Operations Manager,2021-12-26,EMP00013,New York,Active
+EMP00038,Julie,Harris,julie.harris@techsolutions-corp.com,Operations,Operations Director,2025-10-15,EMP00011,New York,Active
+EMP00039,Mary,Bright,mary.bright@techsolutions-corp.com,Supply Chain,Procurement Manager,2024-03-10,EMP00003,Boston,Active
+EMP00040,William,Salazar,william.salazar@techsolutions-corp.com,Sales,Account Executive,2019-08-21,EMP00036,New York,Active
+EMP00041,Danielle,Marshall,danielle.marshall@techsolutions-corp.com,Sales,Account Executive,2025-05-08,EMP00021,New York,Active
+EMP00042,Andrew,Wright,andrew.wright@techsolutions-corp.com,Operations,COO,2021-05-27,EMP00007,San Francisco,Terminated
+EMP00043,Laurie,Alvarado,laurie.alvarado@techsolutions-corp.com,Sales,Sales Director,2021-06-06,EMP00001,New York,Active
+EMP00044,Alexander,Mason,alexander.mason@techsolutions-corp.com,Operations,Operations Director,2025-06-16,EMP00041,San Francisco,Active
+EMP00045,John,Carroll,john.carroll@techsolutions-corp.com,Supply Chain,Supply Chain Director,2019-07-17,EMP00026,Chicago,Active
+EMP00046,Laura,Carney,laura.carney@techsolutions-corp.com,Operations,Operations Manager,2023-12-16,EMP00012,Chicago,Active
+EMP00047,David,Jenkins,david.jenkins@techsolutions-corp.com,Operations,Operations Director,2024-07-28,EMP00009,San Francisco,Active
+EMP00048,Chris,Perez,chris.perez@techsolutions-corp.com,Account Management,Customer Success Manager,2023-01-02,EMP00037,Chicago,Active
+EMP00049,Catherine,Reid,catherine.reid@techsolutions-corp.com,Account Management,Customer Success Manager,2019-08-31,EMP00047,Boston,Terminated
+EMP00050,Kathryn,Collins,kathryn.collins@techsolutions-corp.com,Operations,Operations Manager,2020-12-08,EMP00017,New York,Active
+EMP00051,Todd,Daniel,todd.daniel@techsolutions-corp.com,Sales,VP Sales,2025-02-13,EMP00019,San Francisco,Active
+EMP00052,Andrew,Elliott,andrew.elliott@techsolutions-corp.com,Account Management,Customer Success Manager,2021-11-22,EMP00045,Boston,Active
+EMP00053,Christopher,Clark,christopher.clark@techsolutions-corp.com,Operations,COO,2022-07-14,EMP00012,Boston,Active
+EMP00054,Tina,Bennett,tina.bennett@techsolutions-corp.com,Finance,Senior Financial Analyst,2020-03-31,EMP00002,Atlanta,Active
+EMP00055,Benjamin,Mccoy,benjamin.mccoy@techsolutions-corp.com,Supply Chain,Supply Chain Analyst,2025-11-03,EMP00011,Chicago,Active
+EMP00056,Linda,Castillo,linda.castillo@techsolutions-corp.com,Finance,CFO,2025-11-15,EMP00008,San Francisco,Active
+EMP00057,Marilyn,Roy,marilyn.roy@techsolutions-corp.com,Supply Chain,Supply Chain Analyst,2024-03-23,EMP00039,Boston,Terminated
+EMP00058,Jordan,Hughes,jordan.hughes@techsolutions-corp.com,Sales,VP Sales,2024-06-17,EMP00038,New York,Active
+EMP00059,Gabriel,Howard,gabriel.howard@techsolutions-corp.com,Account Management,Senior Account Manager,2023-06-26,EMP00056,New York,Active
+EMP00060,Erik,Miller,erik.miller@techsolutions-corp.com,Operations,COO,2019-09-27,EMP00005,New York,Active
+EMP00061,Kevin,Callahan,kevin.callahan@techsolutions-corp.com,Account Management,Account Manager,2024-05-04,EMP00008,Boston,Terminated
+EMP00062,Lisa,Roberts,lisa.roberts@techsolutions-corp.com,Operations,Operations Manager,2025-03-15,EMP00016,Boston,Active
+EMP00063,Noah,Jackson,noah.jackson@techsolutions-corp.com,Sales,VP Sales,2022-04-13,EMP00004,San Francisco,Active
+EMP00064,John,Reed,john.reed@techsolutions-corp.com,Account Management,Senior Account Manager,2018-09-22,EMP00049,Boston,Active
+EMP00065,Alexander,Hunt,alexander.hunt@techsolutions-corp.com,Supply Chain,Procurement Manager,2024-04-07,EMP00024,San Francisco,Active
+EMP00066,Amanda,Lee,amanda.lee@techsolutions-corp.com,Sales,VP Sales,2025-05-31,EMP00018,New York,Active
+EMP00067,Barbara,Cooper,barbara.cooper@techsolutions-corp.com,Operations,Operations Manager,2023-02-04,EMP00031,Chicago,Terminated
+EMP00068,Robert,Robinson,robert.robinson@techsolutions-corp.com,Account Management,Account Manager,2021-04-22,EMP00044,Boston,Active
+EMP00069,Troy,Miller,troy.miller@techsolutions-corp.com,Finance,Finance Manager,2019-06-29,EMP00057,San Francisco,Active
+EMP00070,Mark,Riley,mark.riley@techsolutions-corp.com,Sales,Senior Account Executive,2019-04-01,EMP00031,New York,Active
+EMP00071,Allison,Bradford,allison.bradford@techsolutions-corp.com,Operations,Operations Manager,2021-11-02,EMP00054,Atlanta,Active
+EMP00072,Jessica,Garcia,jessica.garcia@techsolutions-corp.com,Operations,COO,2023-09-03,EMP00039,Chicago,Active
+EMP00073,Michael,Harrington,michael.harrington@techsolutions-corp.com,Finance,Senior Financial Analyst,2020-01-22,EMP00012,San Francisco,Active
+EMP00074,Daniel,Arnold,daniel.arnold@techsolutions-corp.com,Account Management,Account Manager,2018-05-21,EMP00004,Chicago,Active
+EMP00075,Andrew,Roth,andrew.roth@techsolutions-corp.com,Operations,COO,2025-03-03,EMP00073,New York,Active
+EMP00076,Nicole,Ewing,nicole.ewing@techsolutions-corp.com,Operations,Operations Director,2021-07-15,EMP00044,Chicago,Active
+EMP00077,Michael,Meyer,michael.meyer@techsolutions-corp.com,Finance,CFO,2026-01-02,EMP00064,New York,Active
+EMP00078,Natalie,Cline,natalie.cline@techsolutions-corp.com,Operations,Operations Director,2024-08-07,EMP00026,San Francisco,Active
+EMP00079,Jasmine,Wilson,jasmine.wilson@techsolutions-corp.com,Operations,Operations Director,2020-11-02,EMP00022,Chicago,Active
+EMP00080,Heather,Young,heather.young@techsolutions-corp.com,Account Management,Account Manager,2020-09-16,EMP00018,San Francisco,Active
+EMP00081,Michelle,Andrews,michelle.andrews@techsolutions-corp.com,Operations,COO,2023-06-25,EMP00042,Chicago,Active
+EMP00082,Melissa,White,melissa.white@techsolutions-corp.com,Supply Chain,Procurement Manager,2021-03-14,EMP00079,Atlanta,Active
+EMP00083,Janice,Ruiz,janice.ruiz@techsolutions-corp.com,Operations,COO,2024-02-25,EMP00053,San Francisco,Active
+EMP00084,Julie,Johnson,julie.johnson@techsolutions-corp.com,Finance,Finance Manager,2024-01-31,EMP00071,Chicago,Active
+EMP00085,David,Garcia,david.garcia@techsolutions-corp.com,Account Management,Senior Account Manager,2022-12-23,EMP00023,New York,Active
+EMP00086,Steven,Boyd,steven.boyd@techsolutions-corp.com,Finance,Financial Analyst,2024-12-05,EMP00050,San Francisco,Terminated
+EMP00087,Jennifer,Mitchell,jennifer.mitchell@techsolutions-corp.com,Finance,Finance Manager,2024-12-27,EMP00012,Chicago,Active
+EMP00088,Leonard,Reid,leonard.reid@techsolutions-corp.com,Sales,Sales Director,2025-02-16,EMP00036,New York,Active
+EMP00089,Jennifer,Gross,jennifer.gross@techsolutions-corp.com,Operations,Operations Director,2023-09-01,EMP00065,Chicago,Terminated
+EMP00090,Amanda,Chandler,amanda.chandler@techsolutions-corp.com,Finance,Finance Manager,2018-03-24,EMP00002,New York,Active
+EMP00091,Garrett,Rios,garrett.rios@techsolutions-corp.com,Account Management,Senior Account Manager,2022-03-14,EMP00082,New York,Active
+EMP00092,Emily,Cox,emily.cox@techsolutions-corp.com,Operations,COO,2023-05-08,EMP00015,San Francisco,Active
+EMP00093,Michael,Smith,michael.smith@techsolutions-corp.com,Sales,Sales Director,2018-11-19,EMP00017,Boston,Active
+EMP00094,Eric,Wilson,eric.wilson@techsolutions-corp.com,Finance,Senior Financial Analyst,2021-08-03,EMP00053,San Francisco,Active
+EMP00095,Amanda,Mata,amanda.mata@techsolutions-corp.com,Account Management,Customer Success Manager,2021-07-21,EMP00010,Chicago,Active
+EMP00096,Matthew,Anderson,matthew.anderson@techsolutions-corp.com,Finance,Finance Manager,2022-04-24,EMP00088,San Francisco,Active
+EMP00097,Mason,Cohen,mason.cohen@techsolutions-corp.com,Account Management,Senior Account Manager,2023-06-24,EMP00063,Boston,Active
+EMP00098,Christine,Ramirez,christine.ramirez@techsolutions-corp.com,Finance,CFO,2024-06-03,EMP00062,San Francisco,Active
+EMP00099,Tony,Howell,tony.howell@techsolutions-corp.com,Account Management,Senior Account Manager,2018-05-26,EMP00077,Atlanta,Active
+EMP00100,Richard,Sharp,richard.sharp@techsolutions-corp.com,Account Management,Account Manager,2018-09-12,EMP00012,Chicago,Active
+EMP00101,Breanna,Lopez,breanna.lopez@techsolutions-corp.com,Account Management,Senior Account Manager,2022-02-28,EMP00079,Atlanta,Active
+EMP00102,Benjamin,Fletcher,benjamin.fletcher@techsolutions-corp.com,Supply Chain,Supply Chain Analyst,2021-06-17,EMP00013,Boston,Terminated
+EMP00103,Leslie,Walton,leslie.walton@techsolutions-corp.com,Finance,CFO,2020-05-14,EMP00016,Atlanta,Active
+EMP00104,Devin,Turner,devin.turner@techsolutions-corp.com,Sales,Sales Director,2019-06-25,EMP00078,San Francisco,Active
+EMP00105,Donald,Henderson,donald.henderson@techsolutions-corp.com,Supply Chain,Procurement Manager,2018-10-25,EMP00016,San Francisco,Active
+EMP00106,Monique,Payne,monique.payne@techsolutions-corp.com,Operations,Operations Director,2023-08-25,EMP00016,Boston,Active
+EMP00107,Roberta,Dixon,roberta.dixon@techsolutions-corp.com,Account Management,Customer Success Manager,2022-12-07,EMP00037,Atlanta,Active
+EMP00108,Jeffery,Schwartz,jeffery.schwartz@techsolutions-corp.com,Account Management,Senior Account Manager,2024-07-11,EMP00004,Boston,Active
+EMP00109,Jamie,Vargas,jamie.vargas@techsolutions-corp.com,Account Management,Account Manager,2019-10-12,EMP00065,Boston,Active
+EMP00110,Marc,Smith,marc.smith@techsolutions-corp.com,Finance,Financial Analyst,2025-05-06,EMP00040,New York,Active
+EMP00111,Andrew,Mitchell,andrew.mitchell@techsolutions-corp.com,Supply Chain,Procurement Manager,2018-09-16,EMP00049,New York,Active
+EMP00112,Alyssa,Beck,alyssa.beck@techsolutions-corp.com,Operations,COO,2020-04-21,EMP00022,Atlanta,Active
+EMP00113,Justin,Hunter,justin.hunter@techsolutions-corp.com,Account Management,Customer Success Manager,2024-08-24,EMP00044,Boston,Active
+EMP00114,Jeremy,Espinoza,jeremy.espinoza@techsolutions-corp.com,Sales,Sales Director,2022-03-26,EMP00102,New York,Active
+EMP00115,Jessica,Small,jessica.small@techsolutions-corp.com,Sales,Senior Account Executive,2024-02-24,EMP00008,Chicago,Active
+EMP00116,Andrea,Ward,andrea.ward@techsolutions-corp.com,Finance,Financial Analyst,2022-11-06,EMP00011,Chicago,Terminated
+EMP00117,Tom,Martinez,tom.martinez@techsolutions-corp.com,Finance,Senior Financial Analyst,2019-04-06,EMP00004,Chicago,Active
+EMP00118,Barbara,Lane,barbara.lane@techsolutions-corp.com,Supply Chain,Supply Chain Director,2019-07-28,EMP00105,San Francisco,Active
+EMP00119,Heather,Davila,heather.davila@techsolutions-corp.com,Operations,COO,2019-10-26,EMP00112,New York,Active
+EMP00120,Patrick,Johnson,patrick.johnson@techsolutions-corp.com,Account Management,Customer Success Manager,2019-01-22,EMP00081,Chicago,Active
+EMP00121,Amanda,Walker,amanda.walker@techsolutions-corp.com,Sales,VP Sales,2019-11-08,EMP00020,Chicago,Active
+EMP00122,Jean,Collier,jean.collier@techsolutions-corp.com,Account Management,Account Manager,2019-01-29,EMP00048,Atlanta,Active
+EMP00123,Todd,Mosley,todd.mosley@techsolutions-corp.com,Account Management,Customer Success Manager,2020-01-11,EMP00070,Atlanta,Active
+EMP00124,Brandon,Heath,brandon.heath@techsolutions-corp.com,Sales,Account Executive,2022-04-23,EMP00090,New York,Active
+EMP00125,Kristi,Brown,kristi.brown@techsolutions-corp.com,Supply Chain,Supply Chain Director,2020-03-24,EMP00064,Boston,Active
+EMP00126,Courtney,Mills,courtney.mills@techsolutions-corp.com,Account Management,Customer Success Manager,2020-12-05,EMP00106,Boston,Active
+EMP00127,Melissa,Hudson,melissa.hudson@techsolutions-corp.com,Finance,CFO,2021-12-16,EMP00050,Boston,Active
+EMP00128,Justin,Scott,justin.scott@techsolutions-corp.com,Account Management,Account Manager,2018-11-30,EMP00051,New York,Active
+EMP00129,Jason,Jones,jason.jones@techsolutions-corp.com,Operations,Operations Manager,2021-09-27,EMP00034,Atlanta,Active
+EMP00130,Andrew,Lopez,andrew.lopez@techsolutions-corp.com,Finance,Finance Manager,2024-04-12,EMP00027,San Francisco,Active
+EMP00131,Molly,Jones,molly.jones@techsolutions-corp.com,Operations,COO,2021-11-30,EMP00097,San Francisco,Active
+EMP00132,Jonathan,Winters,jonathan.winters@techsolutions-corp.com,Account Management,Account Manager,2024-02-10,EMP00104,Chicago,Active
+EMP00133,Robert,Harrison,robert.harrison@techsolutions-corp.com,Finance,Financial Analyst,2022-02-04,EMP00080,Atlanta,Active
+EMP00134,Calvin,Brown,calvin.brown@techsolutions-corp.com,Supply Chain,Supply Chain Director,2019-04-06,EMP00032,Atlanta,Active
+EMP00135,Gabriella,Andrews,gabriella.andrews@techsolutions-corp.com,Finance,Senior Financial Analyst,2022-01-13,EMP00013,Chicago,Active
+EMP00136,Lori,Pennington,lori.pennington@techsolutions-corp.com,Supply Chain,Supply Chain Analyst,2022-09-03,EMP00017,Chicago,Terminated
+EMP00137,Robert,Williams,robert.williams@techsolutions-corp.com,Sales,Sales Director,2018-01-17,EMP00061,Chicago,Active
+EMP00138,Nathan,Romero,nathan.romero@techsolutions-corp.com,Operations,Operations Manager,2022-10-02,EMP00030,New York,Active
+EMP00139,Kellie,Miller,kellie.miller@techsolutions-corp.com,Finance,CFO,2022-01-22,EMP00064,Chicago,Terminated
+EMP00140,Dennis,Leach,dennis.leach@techsolutions-corp.com,Operations,Operations Manager,2025-07-26,EMP00117,San Francisco,Active
+EMP00141,Tanner,Li,tanner.li@techsolutions-corp.com,Operations,Operations Manager,2018-04-21,EMP00073,San Francisco,Active
+EMP00142,Sheila,Parker,sheila.parker@techsolutions-corp.com,Account Management,Senior Account Manager,2019-03-26,EMP00025,Atlanta,Active
+EMP00143,Mikayla,Noble,mikayla.noble@techsolutions-corp.com,Supply Chain,Supply Chain Director,2024-09-14,EMP00002,Chicago,Active
+EMP00144,Jennifer,Evans,jennifer.evans@techsolutions-corp.com,Operations,COO,2022-02-13,EMP00068,New York,Active
+EMP00145,Jeremy,Scott,jeremy.scott@techsolutions-corp.com,Finance,Financial Analyst,2023-12-06,EMP00097,Atlanta,Active
+EMP00146,Kevin,Chavez,kevin.chavez@techsolutions-corp.com,Finance,Senior Financial Analyst,2019-01-25,EMP00070,New York,Active
+EMP00147,Stephanie,Donovan,stephanie.donovan@techsolutions-corp.com,Supply Chain,Procurement Manager,2018-03-05,EMP00030,Boston,Active
+EMP00148,Chad,Adams,chad.adams@techsolutions-corp.com,Account Management,Customer Success Manager,2024-05-06,EMP00027,Chicago,Active
+EMP00149,Richard,Smith,richard.smith@techsolutions-corp.com,Operations,Operations Director,2020-11-09,EMP00076,New York,Terminated
+EMP00150,Corey,Bentley,corey.bentley@techsolutions-corp.com,Finance,CFO,2023-06-12,EMP00041,Chicago,Active

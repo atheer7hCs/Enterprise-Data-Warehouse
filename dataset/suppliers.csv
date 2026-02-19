@@ -1,0 +1,34 @@
+Supplier_ID,Supplier_Name,Category,City,Country,Lead_Time_Days,Payment_Terms,Supplier_Rating,Active_Status
+SUP00001,Dell Technologies,Technology,"San Jose, CA",USA,41,Net 45,3.7,Active
+SUP00002,HP Inc,Technology,"Phoenix, AZ",USA,4,Net 30,,Active
+SUP00003,Lenovo Group,Technology,"Phoenix, AZ",USA,12,Net 45,4.6,Active
+SUP00004,Cisco Systems,Technology,"Charlotte, NC",USA,12,Net 30,3.7,Active
+SUP00005,Arista Networks,Technology,"Dallas, TX",USA,5,Net 60,4.1,Active
+SUP00006,Juniper Networks,Technology,"Dallas, TX",USA,12,Net 30,4.3,Active
+SUP00007,Fortinet,Technology,"Charlotte, NC",USA,4,Net 60,4.6,Inactive
+SUP00008,Staples Business,Office_Supplies,"Atlanta, GA",USA,7,Net 45,4.1,Active
+SUP00009,Office Depot,Office_Supplies,"Dallas, TX",USA,5,Net 45,4.6,Active
+SUP00010,W.B. Mason,Office_Supplies,"Chicago, IL",USA,12,Net 45,4.1,Active
+SUP00011,Quill Corporation,Office_Supplies,"Phoenix, AZ",USA,6,Net 30,3.5,Active
+SUP00012,Global Industrial,Office_Supplies,"Dallas, TX",USA,4,Net 60,4.2,Active
+SUP00013,Steelcase,Furniture,"Charlotte, NC",USA,5,Net 45,4.3,Active
+SUP00014,Herman Miller,Furniture,"Charlotte, NC",USA,12,Net 45,3.7,Active
+SUP00015,Haworth,Furniture,"Chicago, IL",USA,4,Net 45,4.1,Active
+SUP00016,Knoll,Furniture,"Charlotte, NC",USA,12,Net 60,4.8,Inactive
+SUP00017,HON Company,Furniture,"Chicago, IL",USA,13,Net 60,4.0,Active
+SUP00018,Kimball International,Furniture,,USA,10,Net 60,4.6,Active
+SUP00019,Samsung Electronics,Electronics,"Seattle, WA",USA,27,Net 45,4.6,Active
+SUP00020,LG Electronics,Electronics,"Tokyo, Japan",Japan,18,2/10 Net 30,,Active
+SUP00021,Sony Corporation,Electronics,"Dallas, TX",USA,6,Net 30,4.2,Active
+SUP00022,Panasonic,Electronics,"Phoenix, AZ",USA,5,2/10 Net 30,3.7,Active
+SUP00023,Philips,Electronics,"Phoenix, AZ",USA,9,Net 45,4.1,Active
+SUP00024,Grainger,Industrial,"Dallas, TX",USA,10,2/10 Net 30,3.8,Active
+SUP00025,3M Company,Industrial,"Phoenix, AZ",USA,11,Net 45,,Active
+SUP00026,MSC Industrial,Industrial,"Chicago, IL",USA,6,Net 30,3.6,Active
+SUP00027,Fastenal,Industrial,"Charlotte, NC",USA,6,2/10 Net 30,4.2,Active
+SUP00028,Applied Industrial,Industrial,"Chicago, IL",USA,4,Net 60,4.2,Active
+SUP00029,Adobe Systems,Software,"Chicago, IL",USA,3,Net 60,3.7,Active
+SUP00030,Autodesk,Software,"Phoenix, AZ",USA,10,Net 45,3.9,Active
+SUP00031,Salesforce,Software,"Charlotte, NC",USA,11,Net 30,4.9,Active
+SUP00032,Oracle,Software,"Atlanta, GA",USA,9,Net 45,4.9,Active
+SUP00033,SAP America,Software,"Chicago, IL",USA,9,2/10 Net 30,4.5,Active
