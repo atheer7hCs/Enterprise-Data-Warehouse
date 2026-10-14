@@ -247,6 +247,8 @@ About **92% of orders have no discount**. Discounts are concentrated in much lar
 │    ├──silver/
 │       ├── ddl_database.sql                 # schemas and table definitions
 │       ├── load_database.sql         # load_database() procedure
+│   ├──gold/
+│       ├── ddl_database.sql 
 ├── etl_diagram.png
 └── er_diagram.png
 
@@ -265,11 +267,19 @@ About **92% of orders have no discount**. Discounts are concentrated in much lar
 ## Next Steps
 
 - Add primary and foreign key constraints to the Silver tables in the DDL.
-- Build a Gold layer (star schema) on top of Silver.
-- Connect a BI dashboard to visualise the findings above.
+- Connect a BI dashboard to visualize the Gold layer and explore key business metrics.
 
-## Execution Results: Row Count Comparison 
-### Row Count Comparison 
-![Analysis queries run output](01Analysis-queries.png)
-### Monthly revenue output
-![Analysis queries run output](02Analysis-queries.png)
+## Execution Results
+
+### Row Count Comparison: Bronze vs. Silver
+
+![Row Count Comparison](01Analysis-queries.png)
+
+### Monthly Revenue Analysis
+
+![Monthly Revenue Analysis](02Analysis-queries.png)
+
+### Gold Layer: Star Schema
+
+The Gold layer was successfully built on top of the Silver layer using a star schema to support analytical queries and business intelligence reporting.
+
