@@ -73,7 +73,7 @@ Final validation checks on `silver.orders` all return **0**: no delivery before 
 
 ## Analysis & Key Findings
 
-All queries are in [`sql/analysis_queries.sql`](sql/analysis_queries.sql).
+All queries are in [`sql/analysis_queries.sql`](src/analysis_queries.sql).
 
 ### 1. Monthly revenue and growth
 
@@ -234,13 +234,22 @@ About **92% of orders have no discount**. Discounts are concentrated in much lar
 ```
 .
 ├── README.md
-├── sql/
-│   ├── ddl.sql                 # schemas and table definitions
-│   ├── load_silver.sql         # silver.load_silver() procedure
-│   └── analysis_queries.sql    # analytical queries
-└── images/
-    ├── silver_etl_diagram.png
-    └── silver_er_diagram.png
+├── dataset/
+│   ├── customers.csv                 
+│   ├── employees.csv
+│   ├── orders.csv                 
+│   ├── products.csv        
+│   └── suppliers.csv   
+└── src/
+│    ├──bronze/
+│       ├── ddl_database.sql                 # schemas and table definitions
+│       ├── load_database.sql         # load_database() procedure
+│    ├──silver/
+│       ├── ddl_database.sql                 # schemas and table definitions
+│       ├── load_database.sql         # load_database() procedure
+├── etl_diagram.png
+└── er_diagram.png
+
 ```
 
 ## How to Run
