@@ -22,7 +22,7 @@ The goal is to show the full path from messy raw data to trustworthy, analysis-r
 
 ## Architecture
 
-![ETL pipeline](images/silver_etl_diagram.png)
+![ETL pipeline](ETL_pipeline.png)
 
 Data follows the **medallion architecture**:
 
@@ -31,7 +31,7 @@ Data follows the **medallion architecture**:
 
 ## Data Model
 
-![ER diagram](images/silver_er_diagram.png)
+![ER diagram](ER_diagram.png)
 
 | Relationship | Type |
 |---|---|
