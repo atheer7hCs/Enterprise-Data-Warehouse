@@ -84,3 +84,17 @@ Sales_Employee_ID varchar(50) ,
 Ship_Date varchar(50) NULL,
 Delivery_Date varchar(50) NULL
 );
+
+ALTER TABLE silver.customers ADD PRIMARY KEY (customer_id);
+ALTER TABLE silver.employees ADD PRIMARY KEY (employee_id);
+ALTER TABLE silver.products  ADD PRIMARY KEY (prodect_id);
+ALTER TABLE silver.suppliers ADD PRIMARY KEY (suplier_id);
+ALTER TABLE silver.orders    ADD PRIMARY KEY (order_id);
+
+ALTER TABLE silver.orders
+  ADD FOREIGN KEY (customer_id)       REFERENCES silver.customers(customer_id),
+  ADD FOREIGN KEY (product_id)        REFERENCES silver.products(prodect_id),
+  ADD FOREIGN KEY (sales_employee_id) REFERENCES silver.employees(employee_id);
+
+ALTER TABLE silver.products
+  ADD FOREIGN KEY (supplier_id) REFERENCES silver.suppliers(suplier_id);
