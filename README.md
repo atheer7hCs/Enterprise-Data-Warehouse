@@ -259,8 +259,17 @@ About **92% of orders have no discount**. Discounts are concentrated in much lar
 3. Run `load_silver.sql` to create the procedure, then execute `CALL silver.load_silver();`
 4. Run the queries in `analysis_queries.sql`.
 
+### Pipeline run output
+![Procedure run output](procedure-run.png)
+
 ## Next Steps
 
 - Add primary and foreign key constraints to the Silver tables in the DDL.
 - Build a Gold layer (star schema) on top of Silver.
 - Connect a BI dashboard to visualise the findings above.
+
+## Execution Results: Row Count Comparison 
+### Row Count Comparison 
+![Analysis queries run output](01Analysis-queries.png)
+### Monthly revenue output
+![Analysis queries run output](02Analysis-queries.png)
